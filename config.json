@@ -1,0 +1,10 @@
+{
+    "BOT_BasePath": "spooky-web/",
+    "WEB_BasePath": "spooky-bot/",
+
+    "secure_bot_token":"XXXX",
+    
+    "selfbot_prefix": "s?", 
+    "secure_bot_prefix": "sb?"
+}
+
